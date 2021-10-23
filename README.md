@@ -1,2 +1,2 @@
-# MEDALLA2
+# MEDALLA
 Created with CodeSandbox
